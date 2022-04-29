@@ -1,0 +1,357 @@
+<html>
+<head>
+<title>Quiz Questions And Answers</title>
+</head>
+
+<body background="background1.jpg">
+<center><h1>My Geography Quiz</h1></center>
+<p>
+<form name="quiz"> 
+
+<h3>
+
+Below you will find the quiz I created for my Napier University 
+Web Technology class. The reason I chose a geography related quiz is 
+because this subject is something that I am passionate about. 
+I have been lucky enough to travel to many places throughout the 
+world and seen many of the landmarks on this quiz. 
+I hope you all enjoy and wish you all the best of luck!
+
+</h3>
+
+<br><b>Question 1       
+
+</br>
+
+<br><b>Which painting is The Louvre most famous for ?<br></b>
+<blockquote> 
+<input type="radio" name="q1" value="The Starry Night">The Starry Night<br>
+<input type="radio" name="q1" value="The Last Supper">The Last Supper<br>
+<input type="radio" name="q1" value="The Birth of Venus">The Birth of Venus<br>
+<input type="radio" name="q1" value="Mona Lisa">Mona Lisa<br>
+
+<br>
+<img src="monalisa.jpg">
+</br>
+
+</blockquote>
+
+<p><b> 
+<hr>
+
+<br><b>Question 2
+
+</br>
+
+<br>In which country lays this famous land mark ?<br></b>
+<blockquote>
+<input type="radio" name="q2" value="Belgium">Belgium<br>
+<input type="radio" name="q2" value="Brazil">Brazil<br>
+<input type="radio" name="q2" value="Bolivia">Bolivia<br>
+<input type="radio" name="q2" value="Botswana">Botswana <br>
+
+
+<br>
+<img src="brazil.jpg">
+</br>
+
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 3
+
+</br>
+
+<br>In which city is this famous building situated ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q3" value="Agra">Agra<br>
+<input type="radio" name="q3" value="New Delhi">New Delhi<br>
+<input type="radio" name="q3" value="Jaipur">Jaipur<br>
+<input type="radio" name="q3" value="Mumbai">Mumbai<br>
+
+<br>
+<img src="agra.jpg">
+</br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 4
+
+</br>
+
+<br>Where is this famous land mark situated ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q4" value="Denmark">Denmark<br>
+<input type="radio" name="q4" value="France">France<br>
+<input type="radio" name="q4" value="Spain">Spain<br>
+<input type="radio" name="q4" value="Norway">Norway<br>
+
+
+<br>
+<img src="france.jpg">
+</br>
+
+
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 5
+
+</br>
+
+<br>In which state is this famous landmark ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q5" value="Colorado">Colorado<br>
+<input type="radio" name="q5" value="South Dakota">South Dakota<br>
+<input type="radio" name="q5" value="Arkansas">Arkansas<br>
+<input type="radio" name="q5" value="Washington">Washington<br>
+
+<br>
+<img src="dakota.jpg">
+</br>
+
+
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 6
+
+</br>
+
+<br>Where do these famous land marks reside ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q6" value="North Sentinel Island">North Sentinel Island<br>
+<input type="radio" name="q6" value="Faroe Islands">Faroe Islands<br>
+<input type="radio" name="q6" value="Hawaii">Hawaii<br>
+<input type="radio" name="q6" value="Easter Island">Easter Island<br>
+
+<br>
+<img src="easter.jpg">
+</br>
+
+</blockquote>
+
+<p><b>
+
+<br><b>Question 7
+
+</br>
+
+<br>In which South American country do theses ruins lie ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q7" value="Peru">Peru<br>
+<input type="radio" name="q7" value="Argentina">Argentina<br>
+<input type="radio" name="q7" value="Chile">Chile<br>
+<input type="radio" name="q7" value="Colombia">Colombia<br>
+
+<br>
+<img src="peru.jpg">
+</br>
+
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 8
+
+</br>
+
+<br>Where in Scotland do The Kelpies lie ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q8" value="Stirling">Stirling<br>
+<input type="radio" name="q8" value="Perth ">Perth<br>
+<input type="radio" name="q8" value="Falkirk">Falkirk<br>
+<input type="radio" name="q8" value="Kelso">Kelso<br>
+
+
+<br>
+<img src="falkirk.jpg">
+</br>
+
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 9
+
+</br>
+
+<br>In which country is this famous building ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q9" value="Russia">Russia<br>
+<input type="radio" name="q9" value="China">China<br>
+<input type="radio" name="q9" value="South Korea">South Korea<br>
+<input type="radio" name="q9" value="Pakistan">Pakistan<br>
+
+
+<br>
+<img src="russia.jpg">
+</br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+<br><b>Question 10
+
+</br>
+
+<br>Where is this famous Cathedral situated ?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q10" value="Barcelona">Barcelona<br>
+<input type="radio" name="q10" value="Budapest">Budapest<br>
+<input type="radio" name="q10" value="Lisbon">Lisbon<br>
+<input type="radio" name="q10" value="Victoria">Victoria<br>
+
+
+<br>
+<img src="barcelona.jpg">
+</br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+
+<input type="button"value="Grade Me"onClick="getScore(this.form);">
+
+<input type="reset" value="Clear"><p>
+
+Score out of 10 = <input type= text size 15 name= "mark">
+
+Score as a percentage = <input type=text size=15 name="percentage"><br>
+
+</form>
+
+<br> Created by Gavin Vincenti <br>
+
+<p>
+
+<form method="post" name="Form" onsubmit="" action="">
+
+</form>
+
+</body>
+
+<script>
+
+var numofQues = 10;
+
+var numofChoi = 4;
+
+var answers = new Array(10);
+
+answers[0] = "Mona Lisa";
+
+answers[1] = "Brazil";
+
+answers[2] = "Agra";
+
+answers[3] = "France";
+
+answers[4] = "South Dakota";
+
+answers[5] = "Easter Island";
+
+answers[6] = "Peru";
+
+answers[7] = "Falkirk";
+
+answers[8] = "Russia";
+
+answers[9] = "Barcelona";
+
+
+
+
+function getScore(form) {
+
+var score = 0;
+
+var currentElement;
+
+var currentSelection;
+
+for (i=0; i<numofQues; i++) {
+
+currentElement = i*numofChoi;
+
+answered=false;
+
+for (j=0; j<numofChoi; j++) {
+
+currentSelection = form.elements[currentElement + j];
+
+if (currentSelection.checked) {
+
+answered=true;
+
+if (currentSelection.value == answers[i]) {
+
+score++;
+
+break;
+
+}
+
+}
+
+}
+
+if (answered ===false){alert("Please answer all of the questions") ;return false;}
+
+}
+
+var scorepercentage = Math.round(score/numofQues*100);
+
+form.percentage.value = scorepercentage + "%";
+
+form.mark.value=score;
+
+}
+
+</script>
+
+</html>
